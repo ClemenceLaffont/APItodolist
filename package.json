@@ -1,0 +1,25 @@
+{
+  "name": "apitodolist",
+  "version": "1.0.0",
+  "description": "Création d'une API avec NodeJS, Express et Typescript qui permettra de aie une liste de chose.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ClemenceLaffont/APItodolist.git"
+  },
+  "author": "Clémence Laffont",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ClemenceLaffont/APItodolist/issues"
+  },
+  "homepage": "https://github.com/ClemenceLaffont/APItodolist#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.4",
+    "node": "^8.3.0",
+    "typescript": "^2.5.2"
+  }
+}
